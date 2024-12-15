@@ -8,6 +8,7 @@ This repository contains a Lex program to perform lexical analysis. It identifie
 - **Operators**: Arithmetic and logical operators.
 - **Separators**: Symbols like `;`, `{}`, `[]`, etc.
 - **Comments**: Both single-line and multi-line comments.
+- **Words**: It will print all the words given and count them.
 
 ## How to Compile and Run
 1. Install Lex (Flex) and GCC and Bison if not already installed.
