@@ -14,12 +14,18 @@ This repository contains a Lex program to perform lexical analysis. It identifie
 1. Install Lex (Flex) and GCC and Bison if not already installed.
 2. Run the following commands:
    flex file_name.l
+
    --press enter
+
    gcc lex.yy.c
+
    --press enter
+
    a.exe
+
    --press enter
-   (ctrl + z)
+
+   (ctrl + z) + enter
 
 ## Sample Input
 int x = 10; /* This is a comment*/
